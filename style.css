@@ -1,0 +1,17 @@
+
+
+.button{
+    
+    background-color: green;
+    border: 0px;
+    
+    
+}
+
+.square{
+    width: 30%;
+    background-color: aquamarine;
+    border-radius: 15%;
+    text-align: center;
+    margin-left: 30%;
+}
